@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "668899329541",
+    "project_id": "game-and-groove",
+    "storage_bucket": "game-and-groove.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668899329541:android:715c4c5c70ed3f18cc7e6c",
+        "android_client_info": {
+          "package_name": "com.example.game_and_groove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhciSZ5ltLXmAxXT3pLhXavZPZelS_8cw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
